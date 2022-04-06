@@ -105,7 +105,6 @@ class _HomePageState extends State<HomePage> {
             SizedBox(
               height: 16,
             ),
-            WallpapersList(wallpapers: photo, context: context),
           ],
         )),
       ),
