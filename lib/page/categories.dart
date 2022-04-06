@@ -53,6 +53,7 @@ class _CategorieState extends State<Categorie> {
               SizedBox(
                 height: 16,
               ),
+              WallpapersList(wallpapers: photo, context: context),
             ],
           )),
         ));
